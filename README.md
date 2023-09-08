@@ -13,9 +13,9 @@ git clone https://github.com/infalliblePirate/snake.git
 ```
 ### Compile
 ```shell
-  g++ snake/main.cpp snake/input.cpp
+  g++ snake/main.cpp snake/input.cpp snake/game
 ```
 ### Run
 ```shell
-  ./a.out
+  ./snake/game
 ```
