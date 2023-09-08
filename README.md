@@ -13,7 +13,7 @@ git clone https://github.com/infalliblePirate/snake.git
 ```
 ### Compile
 ```shell
-  g++ snake/main.cpp snake/input.cpp snake/game
+  g++ snake/main.cpp snake/input.cpp -o snake/game
 ```
 ### Run
 ```shell
