@@ -9,13 +9,13 @@ in the project were used <termios.h> and
 
 ### Clone repository
 ```shell
-git clone https://github.com/infalliblePirate/snake-linux.git
+git clone https://github.com/infalliblePirate/snake.git
 ```
 ### Compile
 ```shell
-g++ snake-linux/main.cpp snake-linux/input.cpp
+  g++ snake/main.cpp snake/input.cpp
 ```
 ### Run
 ```shell
-./snake-linux/a.out
+  ./snake/a.out
 ```
