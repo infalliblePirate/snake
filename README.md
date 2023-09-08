@@ -17,5 +17,5 @@ git clone https://github.com/infalliblePirate/snake.git
 ```
 ### Run
 ```shell
-  ./snake/a.out
+  ./a.out
 ```
